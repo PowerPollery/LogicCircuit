@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/event/PortEvent.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/event/PortListener.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/gate/AndGate.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/gate/HubGate.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/gate/MultiInputGate.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/port/Port.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/wire/CWire.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/wire/FWire.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/base/wire/Wire.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/flipflop/edgeflipflop/EdgeJK.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/flipflop/register/$74LS175.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/flipflop/register/$74LS194.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/msi/decoder/$74LS138.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/test/Test.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/test/Test2.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/decoder/S7Decoder.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/showpanel/ShowPanel.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/showpanel/SignalArea.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/util/CompFactory.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/util/JavaUtil.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/util/ThreadPool.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/wavedisplay/PortFilter.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/wavedisplay/PortSetting.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/wavedisplay/SignalCapturer.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/wavedisplay/SignalCreater.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/wavedisplay/WaveDisplayer.java" charset="UTF8" />
+    <file url="file://$PROJECT_DIR$/src/logic_circuit/tools/wavedisplay/WavePainter.java" charset="UTF8" />
+    <file url="PROJECT" charset="UTF8" />
+  </component>
+</project>
